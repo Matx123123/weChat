@@ -1,0 +1,26 @@
+/**index.wxss**/
+.usermotto{
+  position: relative;
+  display: block;
+  width:100%;
+}
+.usermotto>image{
+  width:100%;
+}
+.mmm{
+  position: relative;
+  display: block;
+  width:100%;
+}
+#myAudio{
+  position: absolute;
+  top:0;
+  left:50%;
+  margin-left: -40%;
+  display: block;
+  width: 100%;
+}
+.container>image{
+  display: block;
+  width:100%;
+}

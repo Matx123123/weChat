@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="usermotto">
+    <image src="../../image/jlj.jpg"></image>
+  </view>
+  <view class="vvv">
+    <video id="myVideo" src="http://limeili.applinzi.com/v/7241431-1.flv"></video>
+  </view>
+  <view class="mmm">
+    <audio poster="{{poster}}" name="{{name}}" author="{{author}}" src="{{src}}" id="myAudio" controls loop></audio>
+  </view>
+</view>

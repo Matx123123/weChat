@@ -1,0 +1,44 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/canvas/canvas",
+    "pages/solid/solid",
+    "pages/clear/clear"
+  ],
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "iconPath": "image/hh1.png",
+      "selectedIconPath": "image/hh2.png",
+      "text": "极"
+    }, {
+      "pagePath": "pages/clear/clear",
+      "iconPath": "image/music1.png",
+      "selectedIconPath": "image/music2.png",
+      "text": "乐"
+    }, {
+      "pagePath": "pages/canvas/canvas",
+      "iconPath": "image/hh1.png",
+      "selectedIconPath": "image/hh2.png",
+      "text": "净"
+    }, {
+      "pagePath": "pages/solid/solid",
+      "iconPath": "image/music1.png",
+      "selectedIconPath": "image/music2.png",
+      "text": "土"
+    }],
+    "color":"#fff",
+    "selectedColor":"#d81e06",
+    "backgroundColor":"#000",
+    "borderStyle":"white"
+  },
+  "window":{
+    "enablePullDownRefresh":true,
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "極樂淨土",
+    "navigationBarTextStyle":"white"
+  },
+  "debug": true
+}

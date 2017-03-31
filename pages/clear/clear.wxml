@@ -1,0 +1,21 @@
+<!--pages/clear/clear.wxml-->
+<view class="container">
+    <view class="section">
+        <view class="top">皮皮虾聊天机器人</view>
+        <view class="article">
+            <view class="box">
+                <view class="robotchat clearfix chat">
+                    <image src="../../image/st.jpg" class="simg"></image>
+                    <view class="send2">我是皮皮虾
+                        <view class="arrow"></view>
+                    </view>
+                </view>
+            </view>
+        </view>
+        <view class="aside">
+            <input id="bot"/>
+            <button>发 送</button>
+        </view>
+    </view>
+    <div class="black"></div>
+</view>
